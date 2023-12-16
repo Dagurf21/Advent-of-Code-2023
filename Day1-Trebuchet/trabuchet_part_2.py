@@ -8,7 +8,7 @@ def open_file(filename):
 
 
 def main():
-    filename = "Day 1-Trebuchet/day_one_input.txt"
+    filename = "Day1-Trebuchet\day_one_input.txt"
     lines_in_file = open_file(filename)
 
     print (lines_in_file)
